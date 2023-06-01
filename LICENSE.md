@@ -34,14 +34,6 @@ Disclaimer:
 
 
 
-You are not allowed or permitted to use this private license if you are not listed below and have not been given permission by the licenser, Aerell M., to use this.
-- Greenlio (Green L.)
-- Minesraft2 (Aerell M.)
-- UndercoverGoose
-- ThatFruedDued
-- ItsSyfe
-- GooseterV (Goose V.)
-
-I; the licenser of this project hereby permit and allow these users and persons to modify, reproduce, distribute, and use portions and/or the whole project for their own projects.
+You are not allowed or permitted to use this private license if you are not listed below and have not been given permission by the licenser, Aerell M., to use this. I; the licenser of this project hereby permit and allow these users and persons to modify, reproduce, distribute, and use portions and/or the whole project for their own projects.
 - gordonpeyton83o
 - gordonpeyton83
