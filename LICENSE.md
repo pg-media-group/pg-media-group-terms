@@ -1,6 +1,6 @@
 Private License Version 2.0.1
 -------------------------------------
-© pgisfat 2022-2023
+© pg media group 2022-2024
 By using, modifying, and/or distributing this (software; program; code) you hereby adhere to the terms listed below and must abide by them if you do not want action taken on you/your corporation.
 
 You may not reproduce or distribute unauthorized access of this unless outwardly authorized by said licenser (APPLIES TO ALL BELOW TERMS)
