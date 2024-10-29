@@ -1,4 +1,4 @@
-Effective: September 1, 2020
+Effective: September 2, 2024
 
 This Privacy Policy explains how A PG Media Group Corporation (*"**PG Media Group**,"* *"**we**,"* or *"**us**"*) collects, uses, and discloses information about you. This Privacy Policy applies when you use our websites, mobile applications, and other online products and services that link to this Privacy Policy (collectively, our *"**Services*"), contact our customer service team, engage with us on social media, or otherwise interact with us.
 
